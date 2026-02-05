@@ -85,6 +85,43 @@ Enhanced system with analytics, optimization, and performance validation.
 
 ---
 
+## 📕 Milestone 4 – Final Integration & System Validation
+**File:** `MILESTONE4 SHEMS TEAM1.pdf`
+
+### Key Highlights
+- Complete integration of all previously developed modules
+- End-to-end workflow validation of the Smart Residential Energy Management System
+- Real-time energy monitoring and data consistency verification
+- User interface refinement and usability improvements
+- System performance testing under different residential usage scenarios
+- Security checks and access control validation
+- Final result analysis with observed energy optimization benefits
+
+🎯 **Outcome:**  
+Successful deployment-ready prototype demonstrating a **fully functional smart residential energy monitoring and management system** with validated performance, usability, and reliability.
+
+---
+
+### 👥 Team Contribution
+**Team 1 – SHEMS**
+
+This milestone represents the **collaborative effort of the project team** in completing:
+- System integration  
+- Testing & validation  
+- Documentation  
+- Final performance evaluation  
+
+---
+
+### 📌 Significance of Milestone 4
+Milestone 4 marks the **completion phase** of the Smart Residential Energy Management System, confirming that:
+
+- All modules work together seamlessly  
+- Energy monitoring is accurate and reliable  
+- The system is ready for real-world residential deployment  
+- The project objectives defined in Milestone-1 are successfully achieved  
+
+
 ## 📄 Internship Report – Smart Residential Energy Management System
 **File:** `SREMS_InternshipReport.pdf`
 
